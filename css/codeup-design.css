@@ -178,6 +178,12 @@ body {
 .top-nav-second {
     text-align: center;
 }
+
+.white-stripe{
+    background-color: white;
+}
+
+
 .logo-item {
     margin-top: 45px;
     max-height: 60px;
@@ -214,6 +220,8 @@ h1, h2, h3, h4, h5, h6{
     height: 120px;
     width: 120px;
     color: white;
+    line-height: 3.5em;
+    font-size: 30px;
     border-radius: 50%;
     display: inline-block;
     border: 5px solid white;
