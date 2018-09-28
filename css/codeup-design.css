@@ -20,20 +20,21 @@ body {
     text-align: center;
 }
 
-
 .large-screen-nav{
     margin-top: 5px;
 }
 
 .third-navbar{
     text-align: right;
+    position: absolute;
+    right: 10px;
+    top: 30px;
 }
 
 
 .large-screen-links{
     font-size: larger;
     margin-left: 3px;
-
 }
 
 
